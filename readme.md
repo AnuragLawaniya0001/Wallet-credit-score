@@ -1,4 +1,6 @@
 Credit Scoring Model for DeFi Wallets on Aave V2
+
+
 Overview
 This project builds a machine learning model that assigns a credit score between 0 and 1000 to Ethereum wallets based on their transaction behavior on the Aave V2 protocol.
 
